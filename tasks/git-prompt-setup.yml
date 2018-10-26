@@ -13,9 +13,9 @@
 #   become: no
 
 
-- name: Clone zsh-git-prompt repository .prompt directory
-  git:
-    repo: "{{ zsh_git_prompt_repo }}"
-    dest: ~/.prompt/zsh-git-prompt
-    accept_hostkey: "{{ zsh_git_prompt_repo_accept_hostkey }}"
-  become: no
+# - name: Clone zsh-git-prompt repository .prompt directory
+#  git:
+#    repo: "{{ zsh_git_prompt_repo }}"
+#    dest: ~/.prompt/zsh-git-prompt
+#    accept_hostkey: "{{ zsh_git_prompt_repo_accept_hostkey }}"
+#  become: no
