@@ -7,7 +7,7 @@ configure_prompt: yes
 configure_python: yes
 configure_vim: yes
 configure_fonts: yes
-configure_macos: yes
+configure_macos: no
 mas_installed_apps: yes
 
 # Install dotfiles from a git repo
