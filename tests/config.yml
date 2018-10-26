@@ -4,7 +4,7 @@ downloads: ~/.ansible-downloads/
 configure_sudoers: no
 
 # Install dotfiles from a git repo
-dotfiles_repo: https://github.com/bmacauley/dotfiles.git
+dotfiles_repo: https://github.com/pnuw/dotfiles.git
 dotfiles_repo_accept_hostkey: yes
 dotfiles_repo_local_destination: ~/.dotfiles
 dotfiles_files:
@@ -57,8 +57,8 @@ vundle_repo_accept_hostkey: yes
 
 
 # Prompt config
-zsh_git_prompt_repo: https://github.com/bmacauley/zsh-git-prompt.git
-zsh_git_prompt_repo_accept_hostkey: yes
+# zsh_git_prompt_repo: https://github.com/bmacauley/zsh-git-prompt.git
+# zsh_git_prompt_repo_accept_hostkey: yes
 
 # Powerline fonts
 powerline_fonts_repo: https://github.com/powerline/fonts.git
