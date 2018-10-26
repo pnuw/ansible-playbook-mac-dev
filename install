@@ -3,7 +3,7 @@
 #	- bootstrap machine in order to prepare for ansible playbook run
 
 RELEASE="master"
-DOWNLOAD="https://github.com/bmacauley/ansible-playbook-mac-dev/archive/$RELEASE.tar.gz"
+DOWNLOAD="https://github.com/pnuw/ansible-playbook-mac-dev/archive/$RELEASE.tar.gz"
 
 
 
@@ -25,7 +25,7 @@ echo 'Macbook dev tools installer'
 echo '==================================='
 echo
 echo ' Uses the following Ansible playbook...'
-echo 'https://github.com/bmacauley/ansible-playbook-mac-dev'
+echo 'https://github.com/pnuw/ansible-playbook-mac-dev'
 echo
 echo
 
